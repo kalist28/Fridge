@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Fridge</string>
+    <string-array name="categories">
+        <item>Диетические блюда</item>
+        <item>Наличие остроты</item>
+        <item>Салат</item>
+    </string-array>
+
+    <string-array name="filters">
+        <item>времени</item>
+        <item>килокалориям</item>
+        <item>количетсву совпадений</item>
+    </string-array>
+</resources>
